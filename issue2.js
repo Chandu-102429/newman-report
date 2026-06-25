@@ -1,0 +1,1 @@
+console.log("Issue 2 fixed");
