@@ -1,1 +1,1 @@
-html report
+newman html report
